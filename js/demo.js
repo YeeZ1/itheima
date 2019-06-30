@@ -4,4 +4,5 @@ window.onload = function() {
     function fn() {
         return 10
     }
+    console.log('这是分支打印');
 }
